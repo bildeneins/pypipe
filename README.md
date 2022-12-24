@@ -6,7 +6,7 @@
 - experimenter.py: ７秒ごとに実験を開始する
 - miner.py: 11秒ごとに新しい実験ポリシーを発見する
 
-## Run exsample
+## Run example
 
 To run experimenter:
 
